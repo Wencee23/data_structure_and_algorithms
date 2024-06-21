@@ -1,6 +1,7 @@
 # data_structure_and_algorithms
 000-programming_in_python
-GROUP 08 ASSIGNMENT 
+
+GROUP 08 ASSIGNMENT CSN1
 
 WENCESLAUS MVAMBA-32228/T.2023
 
